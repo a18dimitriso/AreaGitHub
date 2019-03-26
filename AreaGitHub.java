@@ -18,7 +18,8 @@ public class AreaGitHub {
 		double h = Math.sqrt(altura);
       		 area = (h*B)/2;
      		System.out.println("Altura= " + h);
-        		System.out.println("Area= " + area);
+        		System.out.println("Área= " + area);
+	
    }
 }
 //a18dimitriso estuvo aquí
