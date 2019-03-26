@@ -1,3 +1,3 @@
 # AreaGitHub
-Area de mierda
+
 NO ME DESTROCES EL CODIGO, QUE TE METO CON EL MECHERO
